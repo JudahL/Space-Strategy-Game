@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b587b8f50879b554fa584d42679f7b89, type: 3}
+  m_Name: Cargo Ship
+  m_EditorClassIdentifier: 
+  ShipName: Cargo Ship
+  Description: 
+  Image: {fileID: 21300000, guid: c911b689fb97b7d49a9ba3c2b557ce18, type: 3}
+  _health: 320
+  _damage: 4
+  _crit: 10
+  _evade: 5
+  _armor: 3
+  _healthIncrease: 0
+  _damageIncrease: 0
+  _critIncrease: 0
+  _evadeIncrease: 0
+  _armorIncrease: 0

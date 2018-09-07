@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49c9c9b4bced4a142911cb0bffdd9297, type: 3}
+  m_Name: AttachmentTestHugeMissle
+  m_EditorClassIdentifier: 
+  _name: Huge Missle
+  _description: 
+  _icon: {fileID: 21300000, guid: e206f6e1f8eb0b6448a01e02fd24a96a, type: 3}
+  _cooldown: 0
+  _actions:
+  - Description: 
+    IsHealing: 0
+    PowerRatio: 4
+    MaximumTargets: 0
+    TargetSystemToUse: {fileID: 11400000, guid: 70be8406945f4f6429e4b6d23075f3f9,
+      type: 2}
+    ValidTargets: {fileID: 11400000, guid: e514a1a5b1d2313469ccb1eb8cc4de4b, type: 2}
+    VFX: {fileID: 11400000, guid: 5fc86c65902889c40806bb245d5bfee8, type: 2}
+    AuraToApply: {fileID: 0}

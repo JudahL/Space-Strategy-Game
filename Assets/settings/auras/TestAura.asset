@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 688c626cd07851a4d8fdee172ea7f147, type: 3}
+  m_Name: TestAura
+  m_EditorClassIdentifier: 
+  Duration: 4
+  UniqueType: 0
+  AuraEffects:
+  - {fileID: 11400000, guid: 64be0ca61513bb9408ea4bf247554af3, type: 2}
+  - {fileID: 11400000, guid: c68c6fbbbdd0ab24398622bda7e28d98, type: 2}
